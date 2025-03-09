@@ -1,0 +1,47 @@
+.mentions-page {
+  padding: 40px;
+  font-family: "Nunito Sans", sans-serif;
+}
+.mentions-page .title {
+  font-size: 2.5rem;
+  color: #1e1e1e;
+  font-weight: 600;
+}
+.mentions-page .blue-line {
+  width: 100%;
+  max-width: 225px;
+  height: 4px;
+  background-color: #0d6efd;
+  margin: 0 auto 50px;
+}
+.mentions-page .accordion {
+  margin: auto 50px 10px;
+}
+.mentions-page .accordion .accordion-header:not(.collapsed) {
+  color: #298eff;
+}
+.mentions-page .accordion .accordion-button {
+  color: #1e1e1e !important;
+}
+.mentions-page .accordion .accordion-button:not(.collapsed) {
+  color: #0d6efd !important;
+  background-color: #e8f1ff;
+}
+.mentions-page .accordion h3 {
+  color: #1e1e1e;
+  font-weight: 600;
+}
+.mentions-page .accordion .accordion-body {
+  font-size: 1rem;
+  color: #444;
+}
+.mentions-page .accordion a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+.mentions-page .accordion a:hover {
+  text-decoration: underline;
+  color: #0d6efd;
+}
+
+/*# sourceMappingURL=mention.css.map */
